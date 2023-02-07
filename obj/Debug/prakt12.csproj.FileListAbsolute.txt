@@ -1,0 +1,10 @@
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\bin\Debug\prakt12.exe.config
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\bin\Debug\prakt12.exe
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\bin\Debug\prakt12.pdb
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\obj\Debug\prakt12.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\obj\Debug\prakt12.Robot.resources
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\obj\Debug\prakt12.Properties.Resources.resources
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\obj\Debug\prakt12.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\obj\Debug\prakt12.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\obj\Debug\prakt12.exe
+C:\Users\305-3\Desktop\Малюгин Кирилл\prakt12\obj\Debug\prakt12.pdb
