@@ -13,10 +13,11 @@ namespace prakt12
         {
             return kollife;
         }
-        public void min(int a)  //метод, определяющий изменение количества жизней робота
+        public void min(int a)
         {
+            Random rn1 = new Random();
             kollife = a;
-            kollife = kollife / 2;
+            kollife = rn1.Next(0, (a * 70 / 100));
         }
         public void kol(int a, int k)
         {
